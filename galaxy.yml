@@ -1,6 +1,6 @@
 namespace: "chrismeyersfsu"
 name: "ansible_content_example"
-version: "0.0.1"
+version: "1.0.0"
 description: "a collection for testing ansible collections"
 authors: ["Chris Meyers"]
 license:
