@@ -61,4 +61,3 @@ class CacheModule(BaseFileCacheModule):
     def _dump(self, value, filepath):
         with codecs.open(filepath, 'w', encoding='utf-8') as f:
             f.write(json.dumps(value, cls=AnsibleJSONEncoder, sort_keys=True, indent=4))
-

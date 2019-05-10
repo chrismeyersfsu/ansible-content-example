@@ -22,4 +22,3 @@ class CallbackModule(CallbackBase):
 
     def v2_runner_on_ok(self, result):
         self._display.display("my_callback says ok")
-

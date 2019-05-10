@@ -8,7 +8,7 @@ DOCUMENTATION = """
         - must have this otherwise galaxy will fail to import
 """
 
+
 class LookupModule(LookupBase):
     def run(self, terms, variables, **kwargs):
         return ['lookup_from_user_dir']
-

@@ -8,4 +8,3 @@ class FilterModule(object):
         return {
             'my_filter': my_filter
         }
-

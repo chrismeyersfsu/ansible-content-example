@@ -36,4 +36,3 @@ class Connection(ConnectionBase):
 
     def close(self):
         self._connected = False
-
