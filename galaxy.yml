@@ -1,0 +1,12 @@
+namespace: "redhat"
+name: "cmeyers"
+version: "0.0.1"
+description: "a collection for testing ansible collections"
+authors: ["Chris Meyers"]
+license:
+  - "GPL-3.0-or-later"
+readme: "README.md"
+homepage: "https://github.com/chrismeyersfsu/ansible-context-example"
+tags:
+  - collectiontest
+dependencies: {}
