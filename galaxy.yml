@@ -6,7 +6,7 @@ authors: ["Chris Meyers"]
 license:
   - "GPL-3.0-or-later"
 readme: "README.md"
-homepage: "https://github.com/chrismeyersfsu/ansible-context-example"
+homepage: "https://github.com/chrismeyersfsu/ansible-content-example"
 tags:
   - collectiontest
 dependencies: {}
