@@ -1,5 +1,5 @@
 namespace: "chrismeyersfsu"
-name: "foobar"
+name: "ansible_content_example"
 version: "0.0.1"
 description: "a collection for testing ansible collections"
 authors: ["Chris Meyers"]
