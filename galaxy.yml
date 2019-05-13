@@ -1,0 +1,11 @@
+namespace: "chrismeyersfsu"
+name: "ansible_content_example"
+version: "2.0.0"
+description: "Various content pieces."
+authors:
+  - "chris meyers <chris.meyers.fsu@gmail.com>"
+license:
+  - "GPL-3.0"
+readme: README.md
+tags: []
+dependencies: {}
